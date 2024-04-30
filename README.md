@@ -1,1 +1,1 @@
-# https://mstartsev.github.io/myprojects/
+# goit-cs-hw-06
